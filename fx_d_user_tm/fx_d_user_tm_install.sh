@@ -1,12 +1,12 @@
 #bin
 
 # 版本号
-shell_version='v1.0.0' #脚本版本
+shell_version='v1.0.1' #脚本版本
 version='v15.9.8.261001' #软件版本
 
 # 发布版本号
 apprunname='fx_d_user_tm'
-appinstalname='fx_d_user_tm'-$version #软件安装包名称
+appinstalname='fx_d_user_tmlinux'-$version #软件安装包名称
 
 uiname=$1-shell #脚本名称
 sofname=$1-MPxy #软件名称
