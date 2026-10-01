@@ -1,0 +1,8 @@
+.idea
+.vscode
+*.exe
+/build/build
+/cmd/**/*.exe
+dist
+dist-pro
+.DS_Store
